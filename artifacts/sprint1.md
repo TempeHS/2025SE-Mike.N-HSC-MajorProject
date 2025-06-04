@@ -12,10 +12,10 @@
 
 2. Alice vs. Intruder data exploration\
 
-- [ ] Create temporal features
-- [ ] Create session features
-- [ ] Analyse Alice's vs Intruder's temporal patterns (daily, weekly, monthly, etc.)\
-- [ ] Analyse Alice's vs Intruder's session patterns (number of unique sites, top visited sites, repeated site visits, etc.)
+- [x] Create temporal features
+- [x] Create session features
+- [x] Analyse Alice's vs Intruder's temporal patterns (daily, weekly, monthly, etc.)\
+- [x] Analyse Alice's vs Intruder's session patterns (number of unique sites, top visited sites, repeated site visits, etc.)
 
 **Increment**
 
