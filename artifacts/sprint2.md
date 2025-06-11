@@ -4,9 +4,9 @@
 
 1. Feature Engineering
 
-- [ ] Temporal Features
-- [ ] Session-related Features
-- [ ] Bag-of-Words : Frequency of words within URLs
+- [x] Temporal Features
+- [x] Session-related Features
+- [x] Bag-of-Words : Frequency of URLs
 - [ ] Neighbours Relational Strength: Groups of sessions
 
 **Increment**
