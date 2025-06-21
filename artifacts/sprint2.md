@@ -7,7 +7,6 @@
 - [x] Temporal Features
 - [x] Session-related Features
 - [x] Bag-of-Words : Frequency of URLs
-- [ ] Neighbours Relational Strength: Groups of sessions
 
 **Increment**
 
