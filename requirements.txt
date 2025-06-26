@@ -2,10 +2,8 @@ numpy
 matplotlib
 pandas
 scikit-learn
-keras
-tensorflow
-pydot
-graphviz
-pydot-ng
-pillow
-pydotplus
+pickle
+scipy
+optuna
+xgboost
+eli5
