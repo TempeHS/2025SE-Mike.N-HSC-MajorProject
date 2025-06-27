@@ -1,6 +1,4 @@
-# Project Title
-
-SecureTrack Intruder Detection System.
+# SecureTrack Intruder Detection System.
 
 ## Description
 
