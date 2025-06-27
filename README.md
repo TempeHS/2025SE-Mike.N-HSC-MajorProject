@@ -51,7 +51,7 @@ Mike Nguyen
   - Added features only introduced more noised, which the model picked up, reducing the ROC AUC and average precision.
 - 0.3.3
   - Removed some features, tuning them to better fit the positive class.
-  - Slight improvment gained, yet still lower than the baseline.
+  - Slight improvement gained, yet still lower than the baseline.
 - 0.3.2
   - Used engineered features for model training.
   - The new features added noise to the model, resulting in a dcrease in both ROC AUC and average precision.
@@ -91,7 +91,7 @@ Mike Nguyen
 
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details
 
-## Acknowledgments
+## Acknowledgment
 
 [Yury Kashnitsky's community prediction competition - Catch Me If You Can ("Alice")](https://www.kaggle.com/competitions/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2/overview)
 
